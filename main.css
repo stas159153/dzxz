@@ -1,0 +1,69 @@
+.mars{
+    background-color: blue;
+    text-align: center;
+}
+.mars1{
+    text-decoration: none;
+    color: chartreuse;
+   display: inline-block ;
+   padding: 20px 40px;
+}
+.mars1:hover{
+    background-color: darkorange;
+    color: aqua;
+}
+.mars2{
+    text-decoration: none;
+    color: chartreuse;
+   display: inline-block ;
+   padding: 20px 40px;
+}
+.mars2:hover{
+    background-color: darkorange;
+    color: aqua;
+}
+.mars3{
+    text-decoration: none;
+    color: chartreuse;
+   display: inline-block ;
+   padding:20px 40px;
+}
+.mars3:hover{
+    background-color: darkorange;
+    color: aqua;
+}
+.gan{
+    background-color: blue;
+    text-align: center;
+    margin-top: 60px;
+}
+.gan3{
+    text-decoration: none;
+    color: chartreuse;
+   display: inline-block ;
+   padding: 20px 40px;
+}
+.gan3:hover:{
+    background-color: darkorange;
+    color: aqua;
+}
+.gan2{
+    text-decoration: none;
+    color: chartreuse;
+   display: inline-block ;
+   padding: 20px 40px;
+}
+.gan2:hover{
+    background-color: darkorange;
+    color: aqua;
+}
+.gan4{
+    text-decoration: none;
+    color: chartreuse;
+   display: inline-block ;
+   padding:20px 40px;
+}
+.gan4:hover{
+    background-color: darkorange;
+    color: aqua;
+}
